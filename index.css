@@ -60,9 +60,10 @@ width: 120px;
     height: 90px;
     width: 120px;
     font-size: 1.3em;
-    background-color: lightgreen;
+    background-color: rgb(222, 238, 144);
     font-weight: 600;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-block-start-width: 2px 2px 0 black;
+    border: none;
     border-radius: 3px;
 }
